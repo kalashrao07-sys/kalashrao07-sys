@@ -10,7 +10,7 @@
 ```
 
 <!-- Replace YOUR-PORTFOLIO-URL below once you drop this in -->
-<a href="https://your-portfolio-url.example.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=B.E.+CSE+(AI)+%40+KLE+Tech%2C+Belagavi;Building+ML+%2B+Quantum+ML+%2B+Full-Stack+projects;IEEE+KLESCET+%C2%B7+VKSSF+Scholar+%C2%B7+Team+CodeWizHub;Currently+chasing+an+IEEE-track+publication" alt="Typing SVG" /></a>
+<a href="https://kalash-rao.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=B.E.+CSE+(AI)+%40+KLE+Tech%2C+Belagavi;Building+ML+%2B+Quantum+ML+%2B+Full-Stack+projects;IEEE+KLESCET+%C2%B7+VKSSF+Scholar+%C2%B7+Team+CodeWizHub;Currently+chasing+an+IEEE-track+publication" alt="Typing SVG" /></a>
 
 </div>
 
@@ -27,7 +27,7 @@ Editor ............ VS Code · Jupyter · Google Colab
 Focus ............. Machine Learning · Quantum ML · Full-Stack · IoT
 Building .......... Multi-paradigm HAR pipeline on PAMAP2 (IEEE-track)
 Extending ......... Quantum ML for kidney-cyst gene classification
-Hacking ........... ISRO BAH 2026 with Team CodeWizHub — PS14
+Hacking ........... With Team CodeWizHub
 Affiliations ...... IEEE KLESCET · VKSSF Scholar
 Based in .......... Udupi, Karnataka, India
 ```
