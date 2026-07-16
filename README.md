@@ -14,7 +14,7 @@
 
 </div>
 
-```text
+```
 kalash@KLE-Belagavi
 ────────────────────────────────────────────────────
 OS ............... Always-On Curiosity Mode
