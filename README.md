@@ -10,7 +10,7 @@
 ```
 
 <!-- Replace YOUR-PORTFOLIO-URL below once you drop this in -->
-<a href="https://kalash-rao.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=B.E.+CSE+(AI)+%40+KLE+Tech%2C+Belagavi;Building+ML+%2B+Quantum+ML+%2B+Full-Stack+projects;IEEE+KLESCET+%C2%B7+VKSSF+Scholar+%C2%B7+Team+CodeWizHub;Currently+chasing+an+IEEE-track+publication" alt="Typing SVG" /></a>
+<a href="https://kalash-rao.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=B.E.+CSE+(AI)+at+KLE+Tech%2C+Belagavi;Building+ML+%2B+Quantum+ML+%2B+Full-Stack+projects;IEEE+KLESCET+%C2%B7+VKSSF+Scholar+%C2%B7+Team+CodeWizHub;Currently+chasing+an+IEEE-track+publication" alt="Typing SVG" /></a>
 
 </div>
 
