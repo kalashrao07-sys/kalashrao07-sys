@@ -18,7 +18,7 @@ import datetime
 import requests
 
 GITHUB_USERNAME = "kalashrao07-sys"
-OUTPUT_SVG_PATH = "stats/kalash_stats.svg"
+OUTPUT_SVG_PATH = "kalash_stats.svg"
 
 GRAPHQL_URL = "https://api.github.com/graphql"
 ACCESS_TOKEN = os.environ.get("ACCESS_TOKEN")
@@ -264,7 +264,9 @@ def main():
     profile["total_commits"] = fetch_total_commits(profile["created_at"])
     svg = build_svg(profile)
 
-    os.makedirs(os.path.dirname(OUTPUT_SVG_PATH), exist_ok=True)
+    output_dir = os.path.dirname(OUTPUT_SVG_PATH)
+    if output_dir:
+        os.makedirs(output_dir, exist_ok=True)
     with open(OUTPUT_SVG_PATH, "w", encoding="utf-8") as f:
         f.write(svg)
 
