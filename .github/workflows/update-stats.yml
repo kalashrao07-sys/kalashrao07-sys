@@ -27,7 +27,7 @@ jobs:
 
       - name: Generate stats SVG
         env:
-          ACCESS_TOKEN: ${{ secrets.PROFILE_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.PROFILE_TOKEN || github.token }}
         run: python generate_stats.py
 
       - name: Commit and push if changed
