@@ -65,16 +65,6 @@ Every project below traces back to one of these — not random builds, a consist
   └── Kidney-cyst gene-expression classification, extending a published paper
 ```
 
-### 🔭 Current Focus
-
-- 🧠 **Human Activity Recognition on PAMAP2** — Classical ML, CNN-BiLSTM, TCN, Transformer and Quantum ML running side by side, wrapped in a Flask demo, aimed at an IEEE-track paper.
-- ⚛️ **Quantum ML for kidney-cyst gene expression** — extending a published paper with a Variational Quantum Classifier (PennyLane) on the GSE7869 dataset, classical-ML pipeline already built for comparison.
-- 🛰️ **ISRO Bharatiya Antariksh Hackathon 2026** — with Team CodeWizHub, submitted for **PS14: energetic particle radiation forecasting for geostationary satellites**. Shortlist pending.
-
-### 🔬 Research Interests
-
-`Healthcare AI` `Quantum Machine Learning` `Human Activity Recognition` `Accessibility` `Computer Vision`
-
 ### 🧰 Featured Projects
 
 <!-- Replace each REPLACE-repo-name with the actual repo slug -->
@@ -109,7 +99,6 @@ Live-location child-safety monitoring dashboard.
 Real-time habit/task tracker with live sync, deployed on Render.
 **[GitHub →](https://github.com/kalashrao07-sys/REPLACE-repo-name)** · **[Live Demo →](https://your-progresspulse-url.example.com)**
 
-<sub>📷 Screenshots aren't in here yet — drop a `docs/screenshots/` folder in each repo and swap these placeholders for `![preview](./docs/screenshots/hero.png)` when you have them. They matter more than any badge on this page.</sub>
 
 ### 🛠️ Tech Stack
 
@@ -181,15 +170,8 @@ Year 2 ─ Built ProgressPulse, Deepfake Detector, MediBridge AI, SafeTracer, Pa
 2026 ─── PAMAP2 multi-paradigm ML pipeline + Quantum ML kidney-cyst extension in progress
      └── ISRO BAH 2026 submission (PS14) with Team CodeWizHub
 
-Ahead ── IEEE-track publication · BAH 2026 shortlist result · more open-source
+Ahead ── IEEE-track publication · more open-source
 ```
-
-### 🎯 2026 Goals
-
-- [ ] Submit the PAMAP2 work as an IEEE-track paper
-- [ ] Get shortlisted in ISRO BAH 2026 (PS14)
-- [ ] Publish original results from the quantum ML kidney-cyst extension
-- [ ] Grow public open-source contributions
 
 ### 📊 GitHub Stats
 
@@ -211,10 +193,7 @@ _Populates automatically after the next Action run._
 <!--END_SECTION:activity-->
 
 ### ⚡ Fun Facts
-
-- 🛰️ Evaluated all 15 ISRO BAH 2026 problem statements before committing to PS14.
-- 🖐️ Built SignBridge AI's full accessibility pipeline inside a single hackathon sprint.
-- 🧮 Keeps DP and greedy sharp on PrepInsta between projects.
+- No Facts to share currently....he..eh...
 
 ---
 
