@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/github/followers/kalashrao07-sys?label=Followers&style=for-the-badge&color=bb9af7&logo=github" />
 
 </div>
-<br>
+<br/><br/>
 
 ```text
 kalash@KLE-Belagavi
@@ -41,124 +41,96 @@ Affiliations ...... IEEE KLESCET · VKSSF Scholar · Team CodeWizHub
 Based in .......... Udupi, Karnataka, India
 ```
 
-### 🌍 Impact Areas
+<h3 align="center">🌍 Impact Areas</h3>
+<p align="center"><sub>Every project below traces back to one of these — not random builds, a consistent throughline.</sub></p>
 
-Every project below traces back to one of these — not random builds, a consistent throughline.
+<div>
 
 ```text
-♿ Accessibility
-  └── SignBridge AI — two-way sign language ↔ speech bridge
+♿ Accessibility            🏥 Healthcare                ❤️ Wearable Sensing
+   SignBridge AI               MediBridge AI                PAMAP2 HAR pipeline
 
-🏥 Healthcare
-  └── MediBridge AI — multilingual OPD documentation for hospitals
-
-❤️ Wearable Sensing / Human Activity Recognition
-  └── PAMAP2 multi-paradigm pipeline (Classical ML → CNN-BiLSTM → TCN → Transformer → Quantum ML)
-
-🐶 Animal Welfare
-  └── PawPulse — IoT health collar for stray dogs
-
-🔐 Trust & Safety
-  └── Deepfake Detector · SafeTracer
-
-🧬 Computational Biology + Quantum ML
-  └── Kidney-cyst gene-expression classification, extending a published paper
+🐶 Animal Welfare           🔐 Trust & Safety            🧬 Quantum ML
+   PawPulse                    Deepfake Detector·SafeTracer   Kidney-cyst classification
 ```
 
-### 🧰 Featured Projects
+</div>
+
+<h3 align="center">🧰 Featured Projects</h3>
+
+<div align="center">
 
 <!-- Replace each REPLACE-repo-name with the actual repo slug -->
+| Project | Description | Tags | Link |
+|---|---|---|---|
+| 🖐️ **SignBridge AI** | Two-way sign language ↔ speech bridge with offline KB + emergency detection | `Accessibility` `Flask` | [GitHub →](https://github.com/kalashrao07-sys/REPLACE-repo-name) |
+| 🏥 **MediBridge AI** | Multilingual OPD documentation portal for hospitals | `Healthcare` `Flutter` `Gemini AI` | [GitHub →](https://github.com/kalashrao07-sys/REPLACE-repo-name) |
+| 🐾 **PawPulse** | IoT health-collar dashboard for stray dogs | `IoT` `ESP32` `Supabase` | [GitHub →](https://github.com/kalashrao07-sys/REPLACE-repo-name) |
+| 🕵️ **Deepfake Detector** | Flags manipulated images via Error Level Analysis | `Computer Vision` `Node.js` | [GitHub →](https://github.com/kalashrao07-sys/REPLACE-repo-name) |
+| 📍 **SafeTracer** | Live-location child-safety monitoring dashboard | `Supabase` `Leaflet.js` | [GitHub →](https://github.com/kalashrao07-sys/REPLACE-repo-name) |
+| 📈 **ProgressPulse** | Real-time habit/task tracker, deployed live | `MERN` `Socket.io` | [GitHub →](https://github.com/kalashrao07-sys/REPLACE-repo-name) |
 
-#### 🖐️ SignBridge AI
-`Accessibility` `Speech-to-Sign` `Flask`
-Two-way sign language ↔ speech communication bridge with an offline knowledge base and emergency detection, built for OSC AI BUILD 1.0. Designed with a B2B/B2G rollout path for hospitals and government accessibility programs.
-**[GitHub →](https://github.com/kalashrao07-sys/REPLACE-repo-name)**
+</div>
 
-#### 🏥 MediBridge AI
-`Healthcare` `Flutter` `Firebase` `Gemini AI`
-Multilingual OPD documentation portal that lets patients and clinicians communicate across language barriers.
-**[GitHub →](https://github.com/kalashrao07-sys/REPLACE-repo-name)**
+<h3 align="center">🛠️ Tech Stack</h3>
 
-#### 🐾 PawPulse
-`IoT` `Animal Welfare` `ESP32`
-Smart health-collar dashboard for stray dogs, streaming vitals from an ESP32 into a live Supabase-backed dashboard.
-**[GitHub →](https://github.com/kalashrao07-sys/REPLACE-repo-name)**
-
-#### 🕵️ Deepfake Detector
-`Trust & Safety` `Computer Vision` `Node.js`
-Flags manipulated images using Error Level Analysis, with a full-stack demo UI.
-**[GitHub →](https://github.com/kalashrao07-sys/REPLACE-repo-name)**
-
-#### 📍 SafeTracer
-`Child Safety` `Supabase` `Leaflet.js`
-Live-location child-safety monitoring dashboard.
-**[GitHub →](https://github.com/kalashrao07-sys/REPLACE-repo-name)**
-
-#### 📈 ProgressPulse
-`Full-Stack` `Real-Time` `MERN`
-Real-time habit/task tracker with live sync, deployed on Render.
-**[GitHub →](https://github.com/kalashrao07-sys/REPLACE-repo-name)** · **[Live Demo →](https://your-progresspulse-url.example.com)**
-
-
-### 🛠️ Tech Stack
-
-**Languages**
-<p>
+<p align="center"><b>Languages</b></p>
+<p align="center">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
-**AI / ML**
-<p>
+<p align="center"><b>AI / ML</b></p>
+<p align="center">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/PennyLane-Quantum%20ML-9B59B6?style=flat-square" />
-<!-- swap in TensorFlow or PyTorch depending on which you used for the CNN-BiLSTM/TCN/Transformer models -->
 </p>
+<!-- swap in TensorFlow or PyTorch above depending on which you used for the CNN-BiLSTM/TCN/Transformer models -->
 
-**Backend**
-<p>
+<p align="center"><b>Backend</b></p>
+<p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 </p>
 
-**Frontend**
-<p>
+<p align="center"><b>Frontend</b></p>
+<p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-**Databases**
-<p>
+<p align="center"><b>Databases</b></p>
+<p align="center">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" />
 </p>
 
-**Tools**
-<p>
+<p align="center"><b>Tools</b></p>
+<p align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
 </p>
 
-### 📚 Currently Learning
+<h3 align="center">📚 Currently Learning</h3>
+<p align="center"><code>Quantum Machine Learning (PennyLane, VQCs)</code> · <code>Transformer architectures for time-series</code> · <code>Academic/research writing for publication</code></p>
 
-`Quantum Machine Learning (PennyLane, VQCs)` `Transformer architectures for time-series` `Academic/research writing for publication`
+<h3 align="center">💬 Ask Me About</h3>
+<p align="center"><code>Machine Learning</code> · <code>Quantum ML</code> · <code>Accessibility Tech</code> · <code>Full-Stack Prototyping</code> · <code>Hackathon Strategy</code></p>
 
-### 💬 Ask Me About
+<h3 align="center">🧭 Journey</h3>
 
-`Machine Learning` `Quantum ML` `Accessibility Tech` `Full-Stack Prototyping` `Hackathon Strategy`
-
-### 🧭 Journey
+<div>
 
 ```text
 2024 ─── Started B.E. CSE (AI) @ KLE Technological University
@@ -173,11 +145,15 @@ Year 2 ─ Built ProgressPulse, Deepfake Detector, MediBridge AI, SafeTracer, Pa
 Ahead ── IEEE-track publication · more open-source
 ```
 
-### 📊 GitHub Stats
+</div>
 
-<!-- This card is self-generated: .github/scripts/generate_stats.py runs on a
-     daily GitHub Action and overwrites stats/kalash_stats.svg with live numbers
-     pulled straight from the GraphQL API. -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<!-- Self-generated: .github/scripts/generate_stats.py runs on a daily GitHub
+     Action and overwrites stats/kalash_stats.svg with live numbers from the
+     GraphQL API. The svg shipped alongside this file is a real placeholder so
+     the card renders immediately — it fills in with real numbers after the
+     Action's first run. -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/kalashrao07-sys/kalashrao07-sys/main/stats/kalash_stats.svg" />
 </p>
@@ -186,14 +162,23 @@ Ahead ── IEEE-track publication · more open-source
 <img src="https://streak-stats.demolab.com?user=kalashrao07-sys&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📡 Recent Activity
+<h3 align="center">📡 Recent Activity</h3>
+
+<div align="center">
 
 <!--START_SECTION:activity-->
 _Populates automatically after the next Action run._
 <!--END_SECTION:activity-->
 
-### ⚡ Fun Facts
-- No Facts to share currently....he..eh...
+</div>
+
+<h3>⚡ Fun Facts</h3>
+
+<p align="center">
+🛰️ Evaluated all 15 ISRO BAH 2026 problem statements before committing to PS14<br/>
+🖐️ Built SignBridge AI's full accessibility pipeline inside a single hackathon sprint<br/>
+🧮 Keeps DP and greedy sharp on PrepInsta between projects
+</p>
 
 ---
 
