@@ -10,15 +10,15 @@
 ```
 
 <!-- Replace YOUR-PORTFOLIO-URL below once you drop this in -->
-<a href="https://your-portfolio-url.example.com"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=AI+Engineer-in-training+%40+KLE+Technological+University;Building+AI+for+Healthcare%2C+Accessibility+%26+Human-Centered+Computing;IEEE+KLESCET+%C2%B7+VKSSF+Scholar+%C2%B7+Team+CodeWizHub;Chasing+an+IEEE-track+publication%2C+one+dataset+at+a+time" alt="Typing SVG" /></a>
+<a href="https://kalash-rao.vercel.app/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=AI+Engineer-in-training+at+KLE+Technological+University;IEEE+KLESCET+%C2%B7+VKSSF+Scholar+%C2%B7+Team+CodeWizHub;Chasing+an+IEEE-track+publication%2C+one+dataset+at+a+time" alt="Typing SVG" /></a>
 
 <br/>
 
 <a href="https://github.com/kalashrao07-sys"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <!-- add these once you have the links handy -->
-<a href="https://your-portfolio-url.example.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://kalash-rao.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:kalash.rao07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/kalash-rao-53b288355"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 <br/><br/>
 
@@ -175,9 +175,7 @@ _Populates automatically after the next Action run._
 <h3>⚡ Fun Facts</h3>
 
 <p align="center">
-🛰️ Evaluated all 15 ISRO BAH 2026 problem statements before committing to PS14<br/>
-🖐️ Built SignBridge AI's full accessibility pipeline inside a single hackathon sprint<br/>
-🧮 Keeps DP and greedy sharp on PrepInsta between projects
+- 404 NOT FOUND
 </p>
 
 ---
