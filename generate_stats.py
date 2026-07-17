@@ -199,6 +199,66 @@ def build_svg(stats: dict) -> str:
     return SVG_TEMPLATE.format(height=height, height_minus1=height - 1, rows=rows)
 
 
+EVENTS_URL = f"https://api.github.com/users/{GITHUB_USERNAME}/events/public"
+README_PATH = "README.md"
+ACTIVITY_START = "<!--START_SECTION:activity-->"
+ACTIVITY_END = "<!--END_SECTION:activity-->"
+
+
+def describe_event(event: dict):
+    etype = event.get("type")
+    repo = event.get("repo", {}).get("name", "?")
+
+    if etype == "PushEvent":
+        n = max(len(event.get("payload", {}).get("commits", []) or []), 1)
+        return f"🔨 Pushed {n} commit(s) to `{repo}`"
+    if etype == "CreateEvent":
+        ref_type = event.get("payload", {}).get("ref_type", "repository")
+        return f"🎉 Created {ref_type} in `{repo}`"
+    if etype == "PullRequestEvent":
+        action = event.get("payload", {}).get("action", "updated")
+        return f"🔀 {action.capitalize()} a pull request in `{repo}`"
+    if etype == "IssuesEvent":
+        action = event.get("payload", {}).get("action", "updated")
+        return f"📌 {action.capitalize()} an issue in `{repo}`"
+    if etype == "WatchEvent":
+        return f"⭐ Starred `{repo}`"
+    if etype == "ForkEvent":
+        return f"🍴 Forked `{repo}`"
+    return None
+
+
+def fetch_recent_activity(limit: int = 5):
+    resp = requests.get(EVENTS_URL, headers=HEADERS, timeout=30)
+    if resp.status_code != 200:
+        print(f"Warning: could not fetch events [{resp.status_code}], skipping activity section")
+        return []
+    lines = []
+    for event in resp.json():
+        desc = describe_event(event)
+        if desc:
+            lines.append(f"- {desc}")
+        if len(lines) >= limit:
+            break
+    return lines
+
+
+def update_readme_activity(lines):
+    if not os.path.exists(README_PATH) or not lines:
+        return
+    with open(README_PATH, "r", encoding="utf-8") as f:
+        content = f.read()
+    if ACTIVITY_START not in content or ACTIVITY_END not in content:
+        print("Warning: activity markers not found in README.md, skipping")
+        return
+    before = content.split(ACTIVITY_START)[0]
+    after = content.split(ACTIVITY_END)[1]
+    new_content = before + ACTIVITY_START + "\n" + "\n".join(lines) + "\n" + ACTIVITY_END + after
+    with open(README_PATH, "w", encoding="utf-8") as f:
+        f.write(new_content)
+    print(f"Updated {README_PATH} activity section ({len(lines)} events)")
+
+
 def main():
     profile = fetch_profile()
     profile["total_commits"] = fetch_total_commits(profile["created_at"])
@@ -213,6 +273,8 @@ def main():
         f"  Repos: {profile['total_repos']}  Stars: {profile['total_stars']}  "
         f"Commits: {profile['total_commits']}  Followers: {profile['followers']}"
     )
+
+    update_readme_activity(fetch_recent_activity())
 
 
 if __name__ == "__main__":
