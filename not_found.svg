@@ -20,7 +20,7 @@
   </text>
 
   <text x="240" y="88" text-anchor="middle" class="num" fill="#7dcfff" opacity="0.75">
-    404
+    404 NOT FOUND
     <animate attributeName="x" values="240;244;238;242;240" dur="2.2s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.75;0.3;0.65;0.75" dur="1.7s" repeatCount="indefinite"/>
   </text>
