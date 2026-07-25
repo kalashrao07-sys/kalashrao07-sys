@@ -149,15 +149,6 @@ Ahead ── IEEE-track publication · more open-source
 
 <h3 align="center">📊 GitHub Stats</h3>
 
-<!-- Self-generated: .github/scripts/generate_stats.py runs on a daily GitHub
-     Action and overwrites stats/kalash_stats.svg with live numbers from the
-     GraphQL API. The svg shipped alongside this file is a real placeholder so
-     the card renders immediately — it fills in with real numbers after the
-     Action's first run. -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/kalashrao07-sys/kalashrao07-sys/main/stats/kalash_stats.svg" />
-</p>
-
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=kalashrao07-sys&theme=tokyonight&hide_border=true" />
 </p>
