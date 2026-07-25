@@ -173,7 +173,7 @@ _Populates automatically after the next Action run._
 
 </div>
 
-<h3>⚡ Fun Facts</h3>
+<h3 align="center">⚡ Fun Facts</h3>
 
 <p align="center">
 <div align="center"> <img src="https://raw.githubusercontent.com/kalashrao07-sys/kalashrao07-sys/main/not_found.svg" alt="404" /> </div>
