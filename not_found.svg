@@ -25,7 +25,7 @@
     <animate attributeName="opacity" values="0.75;0.3;0.65;0.75" dur="1.7s" repeatCount="indefinite"/>
   </text>
 
-  <text x="240" y="88" text-anchor="middle" class="num" fill="#c0caf5">404</text>
+  <text x="240" y="88" text-anchor="middle" class="num" fill="#c0caf5">404 NOT FOUND</text>
 
   <text x="240" y="122" text-anchor="middle" class="sub">Whatever you were looking for isn't in this repo,No Fun Facts, he he...</text>
   <text x="240" y="142" text-anchor="middle" class="sub">
