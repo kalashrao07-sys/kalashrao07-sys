@@ -157,6 +157,12 @@ Ahead ── IEEE-track publication · more open-source
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalashrao07-sys&theme=tokyo-night&hide_border=true" />
 </p>
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+<br/>
+
 <h3 align="center">📡 Recent Activity</h3>
 
 <div align="center">
@@ -172,6 +178,11 @@ _Populates automatically after the next Action run._
 <p align="center">
 - 404 NOT FOUND
 </p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F0FF&height=60&section=footer" width="100%"/>
+</div>
+
 
 ---
 
