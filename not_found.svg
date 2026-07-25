@@ -1,0 +1,35 @@
+<svg width="480" height="170" viewBox="0 0 480 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .bg { fill: #1a1b27; }
+      .border { fill: none; stroke: #414868; stroke-width: 1; }
+      .num { font: 800 64px 'Fira Code', Consolas, monospace; }
+      .sub { font: 400 14px 'Fira Code', Consolas, monospace; fill: #565f89; }
+      .cursor { fill: #7aa2f7; }
+    </style>
+  </defs>
+
+  <rect class="bg" width="480" height="170" rx="10"/>
+  <rect class="border" x="0.5" y="0.5" width="479" height="169" rx="10"/>
+
+  <!-- glitch layers -->
+  <text x="240" y="88" text-anchor="middle" class="num" fill="#f7768e" opacity="0.75">
+    404
+    <animate attributeName="x" values="240;236;242;238;240" dur="2.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.75;0.2;0.6;0.75" dur="1.4s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="240" y="88" text-anchor="middle" class="num" fill="#7dcfff" opacity="0.75">
+    404
+    <animate attributeName="x" values="240;244;238;242;240" dur="2.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.75;0.3;0.65;0.75" dur="1.7s" repeatCount="indefinite"/>
+  </text>
+
+  <text x="240" y="88" text-anchor="middle" class="num" fill="#c0caf5">404</text>
+
+  <text x="240" y="122" text-anchor="middle" class="sub">Whatever you were looking for isn't in this repo.</text>
+  <text x="240" y="142" text-anchor="middle" class="sub">
+    <tspan fill="#bb9af7">└──</tspan> try scrolling back up<tspan class="cursor">_</tspan>
+    <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>
+  </text>
+</svg>
