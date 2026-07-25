@@ -176,7 +176,7 @@ _Populates automatically after the next Action run._
 <h3>⚡ Fun Facts</h3>
 
 <p align="center">
-- 404 NOT FOUND
+<div align="center"> <img src="https://raw.githubusercontent.com/kalashrao07-sys/kalashrao07-sys/main/not_found.svg" alt="404" /> </div>
 </p>
 
 <div align="center">
