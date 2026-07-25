@@ -14,7 +14,7 @@
 
   <!-- glitch layers -->
   <text x="240" y="88" text-anchor="middle" class="num" fill="#f7768e" opacity="0.75">
-    404
+    404 NOT FOUND
     <animate attributeName="x" values="240;236;242;238;240" dur="2.6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.75;0.2;0.6;0.75" dur="1.4s" repeatCount="indefinite"/>
   </text>
@@ -27,7 +27,7 @@
 
   <text x="240" y="88" text-anchor="middle" class="num" fill="#c0caf5">404</text>
 
-  <text x="240" y="122" text-anchor="middle" class="sub">Whatever you were looking for isn't in this repo.</text>
+  <text x="240" y="122" text-anchor="middle" class="sub">Whatever you were looking for isn't in this repo,No Fun Facts, he he...</text>
   <text x="240" y="142" text-anchor="middle" class="sub">
     <tspan fill="#bb9af7">└──</tspan> try scrolling back up<tspan class="cursor">_</tspan>
     <animate attributeName="opacity" values="1;1;0;0;1" dur="1.2s" repeatCount="indefinite"/>
