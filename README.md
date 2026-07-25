@@ -153,6 +153,10 @@ Ahead ── IEEE-track publication · more open-source
 <img src="https://streak-stats.demolab.com?user=kalashrao07-sys&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalashrao07-sys&theme=tokyo-night&hide_border=true" />
+</p>
+
 <h3 align="center">📡 Recent Activity</h3>
 
 <div align="center">
