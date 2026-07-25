@@ -163,16 +163,6 @@ Ahead ── IEEE-track publication · more open-source
 
 <br/>
 
-<h3 align="center">📡 Recent Activity</h3>
-
-<div align="center">
-
-<!--START_SECTION:activity-->
-_Populates automatically after the next Action run._
-<!--END_SECTION:activity-->
-
-</div>
-
 <h3 align="center">⚡ Fun Facts</h3>
 
 <p align="center">
