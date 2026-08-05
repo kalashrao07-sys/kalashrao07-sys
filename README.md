@@ -150,7 +150,7 @@ Ahead ── IEEE-track publication · more open-source
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=kalashrao07-sys&theme=tokyonight&hide_border=true&cache_seconds=60" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=kalashrao07-sys&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
