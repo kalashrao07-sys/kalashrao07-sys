@@ -154,7 +154,7 @@ Ahead ── IEEE-track publication · more open-source
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalashrao07-sys&theme=tokyo-night&hide_border=true&cache_seconds=60" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kalashrao07-sys&theme=tokyo-night&hide_border=true&cache_seconds=0" />
 </p>
 
 <div align="center">
