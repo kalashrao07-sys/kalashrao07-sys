@@ -169,7 +169,7 @@ Ahead ── IEEE-track publication · more open-source
 <br/>
 
 ---
-### 🐍 Watch the Snake Eat My Contributions
+<p align="center">🐍 Watch the Snake Eat My Contributions </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalashrao07-sys/kalashrao07-sys/output/github-snake-dark.svg" />
