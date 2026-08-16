@@ -157,11 +157,30 @@ Ahead ── IEEE-track publication · more open-source
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=kalashrao07-sys&theme=tokyo-night&hide_border=true&cache_seconds=0" />
 </p>
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kalashrao07-sys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kalashrao07-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+</p>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </div>
 
 <br/>
+
+---
+### 🐍 Watch the Snake Eat My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kalashrao07-sys/kalashrao07-sys/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kalashrao07-sys/kalashrao07-sys/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/kalashrao07-sys/kalashrao07-sys/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
 
 <h3 align="center">⚡ Fun Facts</h3>
 
